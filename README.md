@@ -92,3 +92,8 @@ Hyperparameter-Tuning-GridSearch/
 ├── classification_report.txt
 ├── tuned_model.pkl
 └── README.md
+
+#Outputs
+<img width="1467" height="340" alt="Image" src="https://github.com/user-attachments/assets/591aa37e-8764-43d7-84f0-8649fe74d8b7" />
+<img width="396" height="231" alt="Image" src="https://github.com/user-attachments/assets/29c61693-df12-4fff-b7be-e565700539cb" />
+<img width="755" height="549" alt="Image" src="https://github.com/user-attachments/assets/ef51067b-c793-48cc-a275-e27f5bcfe9a2" />
